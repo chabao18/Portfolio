@@ -1,5 +1,5 @@
 {
-  "name": "chabaopatra",
+  "name": "portfolio",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -37,19 +37,5 @@
     "vite-plugin-svgr": "^4.3.0"
   },
   "description": "My personal portfolio site",
-  "main": "eslint.config.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/chabao77patra/chabaopatra.git"
-  },
-  "keywords": [
-    "chabao",
-    "chabaopatra"
-  ],
-  "author": "chabao77patra@gmail.com",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/chabao77patra/chabaopatra/issues"
-  },
-  "homepage": "https://github.com/chabao77patra/chabaopatra#readme"
+  "main": "eslint.config.js"
 }

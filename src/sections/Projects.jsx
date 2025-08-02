@@ -7,10 +7,10 @@ export default function Projects() {
       <h2>Projects</h2>
       <Holder>
         <ProjectCard>
-          <img src='' alt='Neo-Tube' />
+          <img src='src/assets/neotube.png' alt='Neo-Tube' />
           <Content>
             <h3>Neo-Tube</h3>
-            <p>todo</p>
+            <p>NeoTube is a modern YouTube clone built to replicate the core functionality of the popular video-sharing platform.</p>
             <Tags>
               <Tag hashtag="React" />
               <Tag hashtag="Nextjs" />
@@ -19,13 +19,13 @@ export default function Projects() {
               <Tag hashtag="PostgreSQL" />
             </Tags>
           </Content>
-          <CardActions visit="x" source="x" />
+          <CardActions visit="https://neo-tube-nu.vercel.app" source="https://github.com/chabao18/NeoTube" />
         </ProjectCard>
         <ProjectCard>
           <img src='src/assets/sys.png' alt='YATU' />
           <Content>
             <h3>YATU: Yet Another TinyURL</h3>
-            <p>todo</p>
+            <p>A modern, scalable, and high-performance URL Shortening Service built using Java 17, Spring Boot 3, and Spring Cloud Microservices Architecture.</p>
             <Tags>
               <Tag hashtag="Java" />
               <Tag hashtag="Spring Boot" />
@@ -33,7 +33,7 @@ export default function Projects() {
               <Tag hashtag="Redis" />
             </Tags>
           </Content>
-          <CardActions source="x" />
+          <CardActions source="https://github.com/chabao18/Yet-Another-TinyURL" />
         </ProjectCard>
       </Holder>
     </div>
