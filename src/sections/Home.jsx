@@ -35,7 +35,7 @@ export default function Home() {
                             <div className='chabao-img-cont'>
                                 <img src={Avatar} alt="chabao" className='chabao-img' />
                             </div>
-                            <div>Hi, I'm Zhixiong<span className="wave">👋</span></div>
+                            <div>Hi, I'm Spencer<span className="wave">👋</span></div>
                         </div>
                         <div>
                             <Sparkles scale={1.5} color="#ff0">

@@ -9,11 +9,11 @@ export default function About() {
     <div className='about-section section'>
       <h2>About</h2>
       <p>
-        I'm a first-year CS grad student who loves building software. I have gained a year of valuable real-world experience through my internships. My tech stack includes mainly <a>Java Spring Boot</a> and some <a>MERN</a> stack development. These days, I'm really into AI and exploring AI agent applications. Looking for <a>Software Development Engineer</a> opportunities where I can code, learn, and work on cool projects.
+        I'm a Computer Science grad student who loves building software. I have gained a year of valuable real-world experience through my internships. My tech stack includes mainly <a>Java Spring Boot</a> and some <a>MERN</a> stack development. These days, I'm really into AI and exploring AI agent applications. I am looking for <a>Software Development Engineer</a> opportunities where I can code, learn, and work on cool projects.
       </p>
       <p>Let’s build something great! ✨</p>
       {/* TODO 添加在线简历地址 */}
-      <a href="" target='_blank'>
+      <a href="https://drive.google.com/file/d/1mj4iin5BU8ztWhNQgi47ZgNt_qTlfqMb/view?usp=drive_link" target='_blank'>
         <Button1>
           <SvgIcon icon={Pdf} />
           Resume
