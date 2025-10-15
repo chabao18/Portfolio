@@ -21,12 +21,12 @@ export default function Experience() {
                     <Timeline>
                         <TimelineItem icon={<img src={KNQ} />} to="https://knq.ai/">
                             <h4>KNQ.AI, Full Stack Developer</h4>
-                            <TimeStamp stamp="Feb 2025 - Jul 2025"/>
+                            <TimeStamp stamp="Mar 2025 - Jul 2025"/>
                             <p>Developed an AI-powered commentary platform for the Hong Kong Jockey Club, delivering intelligent race insights in real time. </p>
                         </TimelineItem>
                         <TimelineItem icon={<ByteDance />} to="https://www.bytedance.com/en/">
                             <h4>ByteDance, Backend Developer</h4>
-                            <TimeStamp stamp="Aug 2024 - Jan 2025" />
+                            <TimeStamp stamp="Aug 2024 - Dec 2024" />
                             <p>Designed and implemented an automated content moderation pipeline to provide content safety support for TikTok and CapCut users.</p>
                         </TimelineItem>
                     </Timeline>
